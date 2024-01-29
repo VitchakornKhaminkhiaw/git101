@@ -1,3 +1,5 @@
 เพิ่ม file new1.text ใน git102 branch main
 
 จากนั้น add commit push
+
+ทำใหม่จาก user1 
